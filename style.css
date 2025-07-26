@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.card {
+  background: white;
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.card img {
+  border-radius: 50%;
+}
+
+.card h1 {
+  color: #333;
+}
+
+.card .title {
+  color: #888;
+  font-size: 18px;
+}
+
+.card a {
+  text-decoration: none;
+  color: white;
+  background: #0077cc;
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
+.card a:hover {
+  background: #005fa3;
+}
